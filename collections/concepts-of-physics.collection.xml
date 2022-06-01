@@ -1,0 +1,659 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11738</md:content-id>
+  <md:title>Concepts of Physics</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>cbb9c200-7e08-441d-90ff-4e471355cefb</md:uuid>
+<md:slug>concepts-of-physics</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m52308"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52309"/>
+        
+      
+    
+    
+      <col:module document="m52310"/>
+        
+      
+    
+    
+      <col:module document="m52311"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Kinematics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52313"/>
+        
+      
+    
+    
+      <col:module document="m52314"/>
+        
+      
+    
+    
+      <col:module document="m52316"/>
+        
+      
+    
+    
+      <col:module document="m52317"/>
+        
+      
+    
+    
+      <col:module document="m52318"/>
+        
+      
+    
+    
+      <col:module document="m52319"/>
+        
+      
+    
+    
+      <col:module document="m52321"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Dynamics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52322"/>
+        
+      
+    
+    
+      <col:module document="m52324"/>
+        
+      
+    
+    
+      <col:module document="m52325"/>
+        
+      
+    
+    
+      <col:module document="m52327"/>
+        
+      
+    
+    
+      <col:module document="m52328"/>
+        
+      
+    
+    
+      <col:module document="m52329"/>
+        
+      
+    
+    
+      <col:module document="m52332"/>
+        
+      
+    
+    
+      <col:module document="m52335"/>
+        
+      
+    
+    
+      <col:module document="m52333"/>
+        
+      
+    
+    
+      <col:module document="m52330"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Work and Energy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52337"/>
+        
+      
+    
+    
+      <col:module document="m51295"/>
+        
+      
+    
+    
+      <col:module document="m52338"/>
+        
+      
+    
+    
+      <col:module document="m52340"/>
+        
+      
+    
+    
+      <col:module document="m52346"/>
+        
+      
+    
+    
+      <col:module document="m52347"/>
+        
+      
+    
+    
+      <col:module document="m52349"/>
+        
+      
+    
+    
+      <col:module document="m52342"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fluids</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52357"/>
+        
+      
+    
+    
+      <col:module document="m52358"/>
+        
+      
+    
+    
+      <col:module document="m52355"/>
+        
+      
+    
+    
+      <col:module document="m52360"/>
+        
+      
+    
+    
+      <col:module document="m52361"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thermal Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52362"/>
+        
+      
+    
+    
+      <col:module document="m52364"/>
+        
+      
+    
+    
+      <col:module document="m52365"/>
+        
+      
+    
+    
+      <col:module document="m52368"/>
+        
+      
+    
+    
+      <col:module document="m52371"/>
+        
+      
+    
+    
+      <col:module document="m52369"/>
+        
+      
+    
+    
+      <col:module document="m52372"/>
+        
+      
+    
+    
+      <col:module document="m52377"/>
+        
+      
+    
+    
+      <col:module document="m52376"/>
+        
+      
+    
+    
+      <col:module document="m52366"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electricity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52379"/>
+        
+      
+    
+    
+      <col:module document="m52381"/>
+        
+      
+    
+    
+      <col:module document="m52384"/>
+        
+      
+    
+    
+      <col:module document="m52385"/>
+        
+      
+    
+    
+      <col:module document="m52387"/>
+        
+      
+    
+    
+      <col:module document="m52391"/>
+        
+      
+    
+    
+      <col:module document="m52388"/>
+        
+      
+    
+    
+      <col:module document="m52392"/>
+        
+      
+    
+    
+      <col:module document="m52398"/>
+        
+      
+    
+    
+      <col:module document="m52400"/>
+        
+      
+    
+    
+      <col:module document="m52401"/>
+        
+      
+    
+    
+      <col:module document="m52402"/>
+        
+      
+    
+    
+      <col:module document="m52407"/>
+        
+      
+    
+    
+      <col:module document="m52406"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Magnetism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52408"/>
+        
+      
+    
+    
+      <col:module document="m52412"/>
+        
+      
+    
+    
+      <col:module document="m52410"/>
+        
+      
+    
+    
+      <col:module document="m52413"/>
+        
+      
+    
+    
+      <col:module document="m52414"/>
+        
+      
+    
+    
+      <col:module document="m52416"/>
+        
+      
+    
+    
+      <col:module document="m52417"/>
+        
+      
+    
+    
+      <col:module document="m52420"/>
+        
+      
+    
+    
+      <col:module document="m52421"/>
+        
+      
+    
+    
+      <col:module document="m52425"/>
+        
+      
+    
+    
+      <col:module document="m52427"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Waves</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52431"/>
+        
+      
+    
+    
+      <col:module document="m52428"/>
+        
+      
+    
+    
+      <col:module document="m52430"/>
+        
+      
+    
+    
+      <col:module document="m52433"/>
+        
+      
+    
+    
+      <col:module document="m52438"/>
+        
+      
+    
+    
+      <col:module document="m52435"/>
+        
+      
+    
+    
+      <col:module document="m52445"/>
+        
+      
+    
+    
+      <col:module document="m52443"/>
+        
+      
+    
+    
+      <col:module document="m52452"/>
+        
+      
+    
+    
+      <col:module document="m52447"/>
+        
+      
+    
+    
+      <col:module document="m52450"/>
+        
+      
+    
+    
+      <col:module document="m52454"/>
+        
+      
+    
+    
+      <col:module document="m52455"/>
+        
+      
+    
+    
+      <col:module document="m52456"/>
+        
+      
+    
+    
+      <col:module document="m52457"/>
+        
+      
+    
+    
+      <col:module document="m52459"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Atomic and Nuclear Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m52461"/>
+        
+      
+    
+    
+      <col:module document="m52462"/>
+        
+      
+    
+    
+      <col:module document="m52463"/>
+        
+      
+    
+    
+      <col:module document="m52469"/>
+        
+      
+    
+    
+      <col:module document="m52468"/>
+        
+      
+    
+    
+      <col:module document="m52466"/>
+        
+      
+    
+    
+      <col:module document="m52477"/>
+        
+      
+    
+    
+      <col:module document="m52471"/>
+        
+      
+    
+    
+      <col:module document="m52475"/>
+        
+      
+    
+    
+      <col:module document="m52480"/>
+        
+      
+    
+    
+      <col:module document="m52479"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m52481"/>
+        
+      
+    
+    
+      <col:module document="m52485"/>
+        
+      
+    
+    
+      <col:module document="m52487"/>
+        
+      
+    
+  </col:content>
+</col:collection>
